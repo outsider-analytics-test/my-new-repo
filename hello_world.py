@@ -10,6 +10,9 @@ def main():
     
     # Fun fact about running on all fours
     print("\nDid you know? Humans can reach speeds of up to 15-20 mph when running on all fours!")
+
+    # this is art of main
+    print("hello")
     
     # ASCII art of a person on all fours
     print("\n    o")
