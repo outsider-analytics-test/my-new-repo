@@ -5,7 +5,7 @@ A simple Hello World script demonstrating Python basics.
 
 def main():
     """Main function that prints Hello World."""
-    print("Hello, World!")
+    print("whats up quadrupedals!")
     print("Welcome to the quadrupedal running revolution!")
     
     # Fun fact about running on all fours
